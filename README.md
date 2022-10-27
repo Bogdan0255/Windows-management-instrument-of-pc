@@ -1,6 +1,6 @@
 #Windows-management-instrument-of-pc
 
-WMI is the easiest way to way to obtain informations about your PC
+WMI is the easiest way to obtain informations about your PC
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Bogdan0255/Windows-management-instrument-of-pc)
 
